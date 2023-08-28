@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Model\\":"model",
+            "Variable\\":"variable",
+            "Interfaces\\":"interfaces",
+            "Configdb\\":"configdb",
+            "Processing\\":"processing"
+        }
+    }
+}
